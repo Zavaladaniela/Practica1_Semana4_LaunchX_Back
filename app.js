@@ -1,5 +1,3 @@
-const fs = require("fs");
-const reader = require ("./lib/utils/reader")
 
 
 // Part 2: Get the quantity of explorers names in node
