@@ -6,4 +6,4 @@ describe ("Prueba de jest", () =>{
         console.log (explorers)
         expect(explorers.length).toBe (15)
     });
-})
+}) 
