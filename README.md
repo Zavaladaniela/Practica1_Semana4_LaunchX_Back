@@ -4,3 +4,6 @@ Con un fin didactico en este repo dejare algunas investigaciones que haré al mo
 >codigo hasta que los datos se terminaron de leer 
 >2. **Parse** : envia los datos en forma de JS y no de json
 >3. **map** : recorre los elementos de una lista y crea una lista nueva
+
+# Pruebas unitarias
+> ° Checar la prueba unitaria de reader
