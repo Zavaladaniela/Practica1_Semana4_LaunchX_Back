@@ -6,4 +6,4 @@ Con un fin didactico en este repo dejare algunas investigaciones que haré al mo
 >3. **map** : recorre los elementos de una lista y crea una lista nueva
 
 # Pruebas unitarias
-> ° Checar la prueba unitaria de reader
+> 1. Prueba unitaria para el reader 
