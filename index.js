@@ -5,7 +5,8 @@ const explorers = reader.readJsonFile("explorers.json")
 console.log (explorers)
 
 console.log ("Desarrollar Test2: Filtrar por mision node")
-console.log (explorerService.filterByMission (explorers, "node"));
+console.log ("Estos son los: " ,explorers)
+//console.log (explorerService.filterByMission (explorers, "node"));
 
 // Aplicación del ExplorerService sobre la lista de explorers
 // ExplorerService.filterByMission(explorers, "node");
