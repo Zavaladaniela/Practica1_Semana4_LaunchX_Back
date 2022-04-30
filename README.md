@@ -7,3 +7,4 @@ Con un fin didactico en este repo dejare algunas investigaciones que haré al mo
 
 # Pruebas unitarias
 > 1. Prueba unitaria para el reader 
+> 2. Prueba para el filtrado por mision
